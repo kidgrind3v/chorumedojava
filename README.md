@@ -30,9 +30,3 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos fundamentais 
 
 O algoritmo demonstra a capacidade de transformar requisitos abstratos em um sistema funcional e organizado. Mais do que um contador de dias, ele representa a maturidade técnica de sair do código linear para um código baseado em funções reutilizáveis e lógica de segurança.
 
-## 📦 Como usar no Git
-
-1. Crie um arquivo chamado `README.md` na raiz do seu repositório.  
-2. Cole o texto acima.  
-3. No campo **Description** do repositório no GitHub, você pode colocar algo curto como:  
-   > Sistema de controle de hábitos em Java focado em lógica de programação e modularização de métodos.
